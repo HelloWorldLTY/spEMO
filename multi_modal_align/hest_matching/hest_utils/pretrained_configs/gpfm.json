@@ -1,0 +1,9 @@
+{
+    "name": "gpfm",
+    "img_norm": "imagenet",
+    "loader": "gpfm",
+    "loader_kwargs": {
+        "model_name": "gpfm"
+    },
+    "checkpoint_path": ""
+}

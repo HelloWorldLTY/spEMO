@@ -1,0 +1,12 @@
+{
+    "conch_v1_official": "conch/pytorch_model.bin",
+    "uni_v1_official": "uni/pytorch_model.bin",
+    "ciga": "fm_v1/ciga/tenpercent_resnet18.ckpt",
+    "ctranspath": "fm_v1/ctranspath/ctranspath.pth",
+    "remedis": "remedis/path-152x2-remedis-m_torch.pth",
+    "phikon_official_hf": "fm_v1/phikon/ibot_vit_base_pancan.pth",
+    "kimianet": "fm_v1/kimianet/KimiaNetPyTorchWeights.pth",
+    "gigapath": "gigapath/pytorch_model.bin",
+    "gigapathslide": "gigapath/pytorch_model.bin",
+    "gpfm": "GPFM/GPFM.pth"
+}
