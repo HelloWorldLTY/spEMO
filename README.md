@@ -46,6 +46,11 @@ We provide a demo notebook under the demo folder. We provide the embeddings used
 
 For other tasks, we include our codes under different folders. Please check these folders for information.
 
+# Incoming functions
+
+- [ ] Support spatial foundation models (Novae, Nichformer, etc.)
+- [ ] Support more pathology foundation models (Virchow2, etc.)
+
 ## Acknowledgement
 
 We thank the developers of different pathology foundation models and large langugage models, as well as the developers of HEST, for their great work.
