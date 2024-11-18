@@ -48,8 +48,8 @@ For other tasks, we include our codes under different folders. Please check thes
 
 # Incoming functions
 
-- [ ] Support spatial foundation models (Novae, Nichformer, etc.)
-- [ ] Support more pathology foundation models (Virchow2, etc.)
+- [x] Support spatial foundation models (Novae, Nichformer, etc.)
+- [x] Support more pathology foundation models (Virchow2, etc.)
 
 ## Acknowledgement
 
