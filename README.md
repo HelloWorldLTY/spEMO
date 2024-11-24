@@ -34,7 +34,7 @@ Finally, prepare the environment for evaluation:
 pip install scib-metrics
 ```
 
-We also upload a conda yml file to reproduce our environment used for this project.
+We also upload a conda yml file to reproduce our environment used for this project. We recommend users deploying this project in High Performance Computing centers. In personal computer, its installation time should be less than 10 minutes.
 
 ## Accessing foundation models
 
