@@ -56,6 +56,7 @@ For other tasks, we include our codes under different folders. Please check thes
 We thank the developers of different pathology foundation models and large langugage models, as well as the developers of HEST, for their great work.
 
 ## Citation
+```
 @article{liu2025spemo,
   title={spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data},
   author={Liu, Tianyu and Huang, Tinglin and Ying, Rex and Zhao, Hongyu},
@@ -64,3 +65,4 @@ We thank the developers of different pathology foundation models and large langu
   year={2025},
   publisher={Cold Spring Harbor Laboratory}
 }
+```
