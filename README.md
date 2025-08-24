@@ -60,7 +60,7 @@ We thank the developers of different pathology foundation models and large langu
 ## Citation
 ```
 @article {Liu2025.01.13.632818,
-	author = {Liu, Tianyu and Huang, Tinglin and Tong, Ding and Wu, Hao and Humphrey, Peter and Perincheri, Sudhir and Schalper, Kurt and Ying, Rex and Xu, Hua and Zou, James and Mahmood, Faisal and Zhao, Hongyu},
+	author = {Liu, Tianyu and Huang, Tinglin and Ding, Tong and Wu, Hao and Humphrey, Peter and Perincheri, Sudhir and Schalper, Kurt and Ying, Rex and Xu, Hua and Zou, James and Mahmood, Faisal and Zhao, Hongyu},
 	title = {spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data},
 	elocation-id = {2025.01.13.632818},
 	year = {2025},
@@ -71,4 +71,5 @@ We thank the developers of different pathology foundation models and large langu
 	journal = {bioRxiv}
 }
 ```
+
 
