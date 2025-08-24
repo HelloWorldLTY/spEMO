@@ -46,6 +46,8 @@ We provide a demo notebook under the demo folder. We provide the embeddings used
 
 For other tasks, we include our codes under different folders. Please check these folders for information.
 
+To protect personal information, we will not release expert feedbacks for medical report generation.
+
 # Incoming functions
 
 - [x] Support spatial foundation models (Novae, Nichformer, etc.)
@@ -57,12 +59,16 @@ We thank the developers of different pathology foundation models and large langu
 
 ## Citation
 ```
-@article{liu2025spemo,
-  title={spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data},
-  author={Liu, Tianyu and Huang, Tinglin and Ying, Rex and Zhao, Hongyu},
-  journal={bioRxiv},
-  pages={2025--01},
-  year={2025},
-  publisher={Cold Spring Harbor Laboratory}
+@article {Liu2025.01.13.632818,
+	author = {Liu, Tianyu and Huang, Tinglin and Tong, Ding and Wu, Hao and Humphrey, Peter and Perincheri, Sudhir and Schalper, Kurt and Ying, Rex and Xu, Hua and Zou, James and Mahmood, Faisal and Zhao, Hongyu},
+	title = {spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data},
+	elocation-id = {2025.01.13.632818},
+	year = {2025},
+	doi = {10.1101/2025.01.13.632818},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2025/08/23/2025.01.13.632818},
+	eprint = {https://www.biorxiv.org/content/early/2025/08/23/2025.01.13.632818.full.pdf},
+	journal = {bioRxiv}
 }
 ```
+
